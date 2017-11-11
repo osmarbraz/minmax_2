@@ -69,8 +69,7 @@ public class Principal {
             //Avança mais dois elementos
             i = i + 2;
         }
-        
-       
+               
         //Cria um vetor com dois elementos para retornar o menor e maior
         int[] retorno = {min, max};
         return retorno;
