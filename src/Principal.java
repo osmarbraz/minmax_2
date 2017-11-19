@@ -7,7 +7,7 @@
  *
  * Baseado nos slides 24 da aula do dia 22/09/2017  
  *
- * Página 156 Cormen 3a Ed
+ * Página 156 Thomas H. Cormen 3a Ed
  *
  * Problema de Seleção
  * Dado um conjunto A de n números inteiro e um inteiro i, 
